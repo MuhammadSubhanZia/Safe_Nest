@@ -1,5 +1,5 @@
 
-</h1>SafeNest – Women Safety App (Android) <h1>
+<h1>SafeNest – Women Safety App (Android) </h1>
 
 Meet SafeNest a quiet protector when things don’t feel right.
 This was possible all thanks to my wonderful team: Hashir Rauf Areeba Umair , Fatima Riaz , Safee Akmal , Mahnoor Rajput
