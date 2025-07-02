@@ -2,7 +2,9 @@
 <h1>SafeNest – Women Safety App (Android) </h1>
 
 Meet SafeNest a quiet protector when things don’t feel right.
-This was possible all thanks to my wonderful team: Hashir Rauf Areeba Umair , Fatima Riaz , Safee Akmal , Mahnoor Rajput
+
+This was possible all thanks to my wonderful team:
+Hashir Rauf Areeba Umair , Fatima Riaz , Safee Akmal , Mahnoor Rajput
 Ever felt that gut-check moment like something’s off, but you can’t say for sure?
 SafeNest is built exactly for that. A discreet, powerful safety app for women who want to be ready without raising alarm.
 Here’s how it works:
@@ -22,7 +24,7 @@ This isn’t about panic. It’s about preparation. Because knowing you have a p
 How to get SafeNest? We will distribute a survey quiz, and if you solve it we will email you SafeNest APK file which will only work till 10th of July as this is just a beta version.
 Because calm is power. And every woman deserves both.
 
-</h1>My Contributions:
+<h1>My Contributions: </h1>
 Implemented vibration gesture feature for emergency alerts.
 Handled recording permission control with proper user guidance.
 Developed full functionality for the "I'm Safe" button, including UI response and logic integration.
