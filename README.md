@@ -3,7 +3,7 @@
 
 Meet SafeNest a quiet protector when things don’t feel right.
 
-This was possible all thanks to my wonderful team: Areeba Umair , Fatima Riaz , Subhan Zia , Safee Akmal , Mahnoor Rajput
+This was possible all thanks to my wonderful team: Areeba Umair , Fatima Riaz , Hashir Rauf , Safee Akmal , Mahnoor Rajput
 
 Ever felt that gut-check moment like something’s off, but you can’t say for sure?
 
