@@ -31,6 +31,7 @@ How to get SafeNest? We will distribute a survey quiz, and if you solve it we wi
 Because calm is power. And every woman deserves both.
 
 <h1>My Contributions: </h1>
+
 Implemented vibration gesture feature for emergency alerts.
 
 Handled recording permission control with proper user guidance.
